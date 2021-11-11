@@ -1,0 +1,190 @@
+[
+  {
+    "pref": "Hokkaido",
+    "val": 0.5
+  },
+  {
+    "pref": "Aomori",
+    "val": 0.5
+  },
+  {
+    "pref": "Iwate",
+    "val": 0.5
+  },
+  {
+    "pref": "Miyagi",
+    "val": 0.5
+  },
+  {
+    "pref": "Akita",
+    "val": 0.5
+  },
+  {
+    "pref": "Yamagata",
+    "val": 0.5
+  },
+  {
+    "pref": "Fukushima",
+    "val": 0.5
+  },
+  {
+    "pref": "Ibaraki",
+    "val": 0.5
+  },
+  {
+    "pref": "Tochigi",
+    "val": 0.5
+  },
+  {
+    "pref": "Gunma",
+    "val": 0.5
+  },
+  {
+    "pref": "Saitama",
+    "val": 0.5
+  },
+  {
+    "pref": "Chiba",
+    "val": 0.5
+  },
+  {
+    "pref": "Tokyo",
+    "val": 0.8
+  },
+  {
+    "pref": "Kanagawa",
+    "val": 0.5
+  },
+  {
+    "pref": "Niigata",
+    "val": 0.5
+  },
+  {
+    "pref": "Toyama",
+    "val": 0.5
+  },
+  {
+    "pref": "Ishikawa",
+    "val": 0.5
+  },
+  {
+    "pref": "Fukui",
+    "val": 0.5
+  },
+  {
+    "pref": "Yamanashi",
+    "val": 0.5
+  },
+  {
+    "pref": "Nagano",
+    "val": 0.5
+  },
+  {
+    "pref": "Gifu",
+    "val": 0.5
+  },
+  {
+    "pref": "Shizuoka",
+    "val": 0.5
+  },
+  {
+    "pref": "Aichi",
+    "val": 0.5
+  },
+  {
+    "pref": "Mie",
+    "val": 0.5
+  },
+  {
+    "pref": "Shiga",
+    "val": 0.5
+  },
+  {
+    "pref": "Kyoto",
+    "val": 0.5
+  },
+  {
+    "pref": "Osaka",
+    "val": 0.5
+  },
+  {
+    "pref": "Hyogo",
+    "val": 0.5
+  },
+  {
+    "pref": "Nara",
+    "val": 0.5
+  },
+  {
+    "pref": "Wakayama",
+    "val": 0.5
+  },
+  {
+    "pref": "Tottori",
+    "val": 0.5
+  },
+  {
+    "pref": "Shimane",
+    "val": 0.5
+  },
+  {
+    "pref": "Okayama",
+    "val": 0.5
+  },
+  {
+    "pref": "Hiroshima",
+    "val": 0.5
+  },
+  {
+    "pref": "Yamaguchi",
+    "val": 0.5
+  },
+  {
+    "pref": "Tokushima",
+    "val": 0.5
+  },
+  {
+    "pref": "Kagawa",
+    "val": 0.5
+  },
+  {
+    "pref": "Ehime",
+    "val": 0.5
+  },
+  {
+    "pref": "Kochi",
+    "val": 0.5
+  },
+  {
+    "pref": "Fukuoka",
+    "val": 0.5
+  },
+  {
+    "pref": "Saga",
+    "val": 0.5
+  },
+  {
+    "pref": "Nagasaki",
+    "val": 0.5
+  },
+  {
+    "pref": "Kumamoto",
+    "val": 0.5
+  },
+  {
+    "pref": "Oita",
+    "val": 0.5
+  },
+  {
+    "pref": "Miyazaki",
+    "val": 0.5
+  },
+  {
+    "pref": "Kagoshima",
+    "val": 0.5
+  },
+  {
+    "pref": "Okinawa",
+    "val": 0.5
+  }
+]
